@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\bin\Debug\Proyecto.dll
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Desktop\TDD\C#\TDD\Proyecto\obj\Debug\Proyecto.pdb
